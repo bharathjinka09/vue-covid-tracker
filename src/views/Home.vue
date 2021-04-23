@@ -13,6 +13,7 @@
     >
       Clear Country
     </button>
+<br>
   </main>
 
   <main class="flex flex-col align-center justify-center text-center" v-else>
